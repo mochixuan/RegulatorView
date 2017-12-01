@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="RegulatorView">
+        <attr name="three_circle_radius" format="dimension"/>
+        
+        <attr name="first_circle_color" format="color"/>
+        <attr name="second_circle_color" format="color"/>
+        <attr name="secondcircle_shadow_color" format="color"/>
+        <attr name="three_circle_color" format="color"/>
+        
+        <attr name="second_circle_width" format="dimension"/>
+        <attr name="secondcircle_shadow_width" format="dimension"/>
+        <attr name="three_circle_width" format="dimension"/>
+        <attr name="gap1_width" format="dimension"/>
+        
+        <attr name="three_ring_angle" format="integer"/>
+        <attr name="second_scale" format="float"/>
+        
+        <attr name="pointer_color" format="color"/>
+        <attr name="pointer_scale" format="float"/>
+        <attr name="pointer_width" format="dimension"/>
+
+        <attr name="symbol" format="string"/>
+        <attr name="center_title" format="string"/>
+        <attr name="bottom_title" format="string"/>
+
+        <attr name="symbol_color" format="color"/>
+        <attr name="center_title_color" format="color"/>
+        <attr name="bottom_title_color" format="color"/>
+
+        <attr name="symbol_size" format="dimension"/>
+        <attr name="center_title_size" format="dimension"/>
+        <attr name="bottom_title_size" format="dimension"/>
+
+        <attr name="bottomcenter_gap" format="dimension"/>
+        <attr name="symbolcenter_gap" format="dimension"/>
+        <attr name="symbolmovetop_gap" format="dimension"/>
+
+        <attr name="backlight_durtion" format="integer"/>
+        <attr name="isopen_backlightanim" format="boolean"/>
+        <attr name="is_forbid_slide" format="boolean"/>
+    </declare-styleable>
+    
+</resources>
