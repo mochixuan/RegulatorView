@@ -1,8 +1,8 @@
 # RegulatorView
 
-![image](https://github.com/mochixuan/RegulatorView/tree/master/RegulatorMaster/img/main.jpg)
-![image](https://github.com/mochixuan/RegulatorView/tree/master/RegulatorMaster/img/slide.gif)
-![image](https://github.com/mochixuan/RegulatorView/tree/master/RegulatorMaster/img/sweep.gif)
+![image](https://github.com/mochixuan/RegulatorView/blob/master/RegulatorMaster/img/main.jpg)
+![image](https://github.com/mochixuan/RegulatorView/blob/master/RegulatorMaster/img/slide.gif)
+![image](https://github.com/mochixuan/RegulatorView/blob/master/RegulatorMaster/img/sweep.gif)
 
 ## 1. 主要功能
 >- 背光灯渐变
