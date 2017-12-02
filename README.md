@@ -1,5 +1,9 @@
 # RegulatorView
 
+![image](https://github.com/mochixuan/RegulatorView/tree/master/RegulatorMaster/img/main.jpg)
+![image](https://github.com/mochixuan/RegulatorView/tree/master/RegulatorMaster/img/slide.gif)
+![image](https://github.com/mochixuan/RegulatorView/tree/master/RegulatorMaster/img/sweep.gif)
+
 ## 1. 主要功能
 >- 背光灯渐变
 >- 背光灯调色
@@ -85,8 +89,8 @@ mRegulatorView.setProgressChangeListener(new OnProgressChangeListener() {
 });
 ```
 
-##### 4.其他
+## 4.其他
 
-这里没有将代码上传到jcenter，如果你项目需要引用应该也要小范围修改，而且代码其实就一个核心，项目引用直接粘贴更合适。
+这里没有将代码上传到jcenter，如果你项目需要引用应该也要小范围修改，而且代码其实就一个核心类，项目引用直接粘贴更合适。
 
 
